@@ -1,7 +1,8 @@
 ## Welcome to Sheng Gui homepage
-<div style='display: none>
+
+<!--
 GitHub Pages
-</div>
+-->
 
 You can use the [editor on GitHub](https://github.com/SGUI-LSEC/ShengGui.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
